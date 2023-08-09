@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">407213572745</string>
+  <string name="google_storage_bucket" translatable="false">closing-adventure.appspot.com</string>
+  <string name="project_id" translatable="false">closing-adventure</string>
+  <string name="google_api_key" translatable="false">AIzaSyAahh7reTNmvfVIC-sx1Ga5n9polMQ9pt0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAahh7reTNmvfVIC-sx1Ga5n9polMQ9pt0</string>
+  <string name="google_app_id" translatable="false">1:407213572745:android:918274049d230f7f2cfc58</string>
+  <string name="default_android_client_id" translatable="false">407213572745-kj0gcalhjmphfqu7nktl36ersbshaubc.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">407213572745-gjfrei3ed6q2it33hjhnp5os4qsph0d1.apps.googleusercontent.com</string>
+</resources>

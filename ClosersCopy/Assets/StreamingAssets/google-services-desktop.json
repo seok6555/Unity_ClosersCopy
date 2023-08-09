@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407213572745",
+    "project_id": "closing-adventure",
+    "storage_bucket": "closing-adventure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407213572745:android:918274049d230f7f2cfc58",
+        "android_client_info": {
+          "package_name": "com.RootStoneGames.ClosingAdventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407213572745-kj0gcalhjmphfqu7nktl36ersbshaubc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.RootStoneGames.ClosingAdventure",
+            "certificate_hash": "75195fb9f0bf51f7eecaf0f5cb0d0b8b1ce912fb"
+          }
+        },
+        {
+          "client_id": "407213572745-gjfrei3ed6q2it33hjhnp5os4qsph0d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAahh7reTNmvfVIC-sx1Ga5n9polMQ9pt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407213572745-gjfrei3ed6q2it33hjhnp5os4qsph0d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
